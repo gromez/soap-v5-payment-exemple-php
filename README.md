@@ -1,4 +1,4 @@
-# SOAP-v5-payment-exemple-PHP
+# SOAP vV5 payment exemple using PHP
 Example of PHP code using [PayZen](https://payzen.eu/) SOAP V5 webservices - createPayment request
 
 
